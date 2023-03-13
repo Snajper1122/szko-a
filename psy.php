@@ -55,6 +55,7 @@ while($ne = mysqli_fetch_row($k)){
 </main>
 <footer>
 Autor: 00000000000 <a href=" http://mojestrony.pl/">Zobacz nasze realizacje</a>
+<h3>HLEO</h3>
 </footer>
 </body>
 </html>
